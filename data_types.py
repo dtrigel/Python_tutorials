@@ -1,3 +1,6 @@
+# Learning Python coding in 2023
+# Codemy.com
+
 import os
 os.system('cls')
 
@@ -21,6 +24,9 @@ fav_pizza = {
     "Cesar"     : "focaccia"
 } # Dictionaries are a sort of more complicated lists. the use a key and a value. In this exmple we want a dictionary of Daniel, Guillermo and Cesar's favorite pizzas
 
+logic = True # A boolean is either true or false
+
 print (names[0]) # here we print the list
 print (NAME_1) # we can print a tuple in the same manner as with a list
 print (fav_pizza["Daniel"]) # We print Daniel's favorite pizza
+
